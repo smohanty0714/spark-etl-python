@@ -1,4 +1,4 @@
-# ETL Spark Job using Python and PySpark
+# Sample ETL Spark Job using Python and PySpark
 
 This document is describing the project structure and local env setup of the ETL job for Spark JOB.
 
