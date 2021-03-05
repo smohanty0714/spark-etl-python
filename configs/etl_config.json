@@ -1,0 +1,14 @@
+{
+  "extract"  : {"uri": "tests/test_data/recipes/recipes.json",
+                "clean": "True"},
+  "transform": {"udfs_required":["tominutes"],
+                "ingredient": "beef",
+                "ingredient": 30,
+                "ingredient": 60,
+                "ingredient": 60
+  },
+  "load"     : {
+                "load_path": "output/report.csv"
+                }
+}
+
